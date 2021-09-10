@@ -1,0 +1,40 @@
+
+     {"dataaray": [
+
+     
+
+     
+        {
+            "fornavn": "Ona",
+            "efternavn":"Girdzijauskaite",
+            "alder":33,
+           "hårfarve": "brun",
+           " skostørrelse": 40
+        },
+        
+        {
+            "fornavn": "Mario",
+            "efternavn":"Girdzi",
+            "alder":35,
+            "hårfarve": "brun",
+            "skostørrelse": 45
+        },
+        
+        {
+            "fornavn": "ROna",
+            "efternavn":"Girdzijau",
+            "alder":23,
+            "hårfarve": "brun",
+            "skostørrelse": 42
+        },
+        
+        {
+            "fornavn": "Cona",
+            "efternavn":"Girdzija",
+            "alder":38,
+           " hårfarve": "brun",
+            "skostørrelse": 49
+        }
+    
+    
+     ]}
